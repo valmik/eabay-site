@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: EECS C106B
-description: Course site for EECS 106B/206B
-author: Tarun Amarnath
-email: tarunamarnath@berkeley.edu
-baseurl: '/106b-sp23site/' # the subpath of your site, e.g. /blog
-url: 'https://ucb-ee106.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+title: EA Bay Area
+description: Lump site for Bay Area Effective Altruism local groups
+author: Valmik Prabhu
+email: valmik@berkeley.edu
+baseurl: '/eabay-site/' # the subpath of your site, e.g. /blog
+url: 'https://valmik.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 
 # Theme settings
 remote_theme: pmarsceill/just-the-docs@v0.2.5-release
