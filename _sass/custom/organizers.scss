@@ -1,0 +1,29 @@
+.area {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: $sp-5;
+}
+
+.organizer {
+  display: flex;
+  flex-basis: 100%;
+  padding: $sp-4;
+
+  @include mq(sm) {
+    flex-basis: 50%;
+  }
+
+  p {
+    @extend .organizer-name, .fs-3;
+  }
+}
+
+.organizer-image {
+  border-radius: 50%;
+  height: $organizer-image-size;
+  margin-right: $sp-4;
+}
+
+.organizer-name {
+  margin: $sp-1;
+}

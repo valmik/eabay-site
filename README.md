@@ -1,3 +1,3 @@
-# Course website for EECS C106/206B for Spring 2023
+# Aggregator Website for Bay Area EA
 
-Website: https://ucb-ee106.github.io/106b-sp23site/
+Website: https://valmik.github.io/eabay-site/
