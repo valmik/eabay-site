@@ -26,15 +26,11 @@ color_scheme: light
 search_enabled: true
 permalink: pretty
 nav_links:
-  Other:
-    Gradescope:
-      - 'https://www.gradescope.com/courses/486737'
-    Ed:
-      - 'https://edstem.org/us/join/a9HVFG'
-    Textbook:
-      - 'https://ucb-ee106.github.io/106b-sp23site/assets/MLS.pdf'
-    Course Notes:
-      - 'https://drive.google.com/file/d/1yMM99xTyV9d7uGenDUIC4TvzeyouE4xg/view?usp=sharing'
+  External:
+    CEA:
+      - 'https://www.centreforeffectivealtruism.org'
+    EA Global:
+      - 'https://www.effectivealtruism.org/ea-global/events/ea-global-bay-area-2023'
 # aux_links:
 #   'Kevin Lin':
 #     - 'https://kevinl.info'
