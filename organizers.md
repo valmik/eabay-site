@@ -27,7 +27,7 @@ description: A list of Bay Area EA organizers
 ## EA San Francisco
 
 <div class="area">
-  {% assign sf_organizers = site.organizers | where: 'area', 'San Fransisco' %}
+  {% assign sf_organizers = site.organizers | where: 'area', 'San Francisco' %}
   {% for organizer in sf_organizers %}
   {{ organizer }}
   {% endfor %}
