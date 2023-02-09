@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Organizers
-nav_order: 5
+nav_order: 4
 description: A list of Bay Area EA organizers
 ---
 

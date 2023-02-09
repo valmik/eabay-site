@@ -18,8 +18,9 @@ description: >-
 </a>
 {% endif %}
 
-# Course Calendar
+<!-- 
+# Modules
 
 {% for module in site.modules %}
 {{ module }}
-{% endfor %}
+{% endfor %} -->
