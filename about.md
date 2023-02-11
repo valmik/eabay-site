@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Local Groups
 nav_order: 5
 description: >-
     About EA Bay Area.
@@ -28,5 +28,10 @@ EA South Bay runs events in the South Bay, including the cities of Palo Alto, Cu
 
 ## EA San Francisco
 EA San Francisco runs events in San Francisco.
+
+## University Groups
+There are two active university groups in the Bay Area:
+* [EA Berkeley](https://eaberkeley.com/)
+* [EA Stanford](https://ea.stanford.edu/)
 
 ---
