@@ -1,8 +1,8 @@
 ---
 name: Valmik Prabhu
 area: East Bay
-email: valmik@
-photo: assets/organizer_pics/test.jpeg
+email: valmik at berkeley dot edu
+photo: assets/organizer_pics/valmik_pic_croppeg.jpg
 ---
 
-East Bay Organizer
+Valmik is a PhD student at UC Berkeley, and is an organizer for East Bay EA
