@@ -9,7 +9,7 @@ description: >-
 # Bay Area Efffective Altruism
 {: .mb-2 }
 
-<section class="image-gallery">
+<!-- <section class="image-gallery">
   <div class="container">
     <h2>Photo Gallery</h2>
     <div class="gallery">
@@ -24,7 +24,7 @@ description: >-
       </div>
     </div>
   </div>
-</section>
+</section> -->
 
 
 
